@@ -5,4 +5,4 @@
 
 ![signal step4](https://svg.wavedrom.com/github/wavedrom/wavedrom/trunk/test/signal-step4.json5)
 
-![ready valid](https://svg.wavedrom.com/github/BrewKris/testWavedrom/blob/main/rdyVld.json5))
+![ready valid](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/rdyVld.json5))
