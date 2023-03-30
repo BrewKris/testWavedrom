@@ -2,9 +2,9 @@
 
 Ready Valid Interface
 
-![ready valid](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/rdyVld.json5)
+![ready valid](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/rdyVld.json5?)
 
 Valid Ack Interface
 
-![valid ack](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/vldAck.json5)
+![valid ack](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/vldAck.json5?)
 
