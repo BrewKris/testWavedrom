@@ -1,5 +1,10 @@
 { signal: [
-  { name: 'data', wave: 'x5.x.', data: '1010' },
-  { name: 'vld',  wave: '01...' },
-  { name: 'rdy',  wave: '0.5..', data: '01' }
+  { name: 'clk',    wave: 'p.............'},
+  ['src', 
+    { name: 'data', wave: 'x5.5x..55.|..x', data: ['D1', 'D2', 'D3', 'D4'] },
+    { name: 'vld',  wave: '01..0..1..|..0' }
+  ],
+  ['dst',
+    { name: 'rdy',  wave: '0.1.....0.|.10' }
+  ]
 ]}
