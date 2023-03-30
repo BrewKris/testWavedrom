@@ -1,0 +1,5 @@
+{signal: [
+  { name: data,  wave: "x5.x", "data": "1010" },
+  { name: valid, wave: "0.5..", "data": "01" },
+  { name: ready, wave: "0.5..", "data": "01" }
+]}
