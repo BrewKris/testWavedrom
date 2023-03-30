@@ -1,0 +1,10 @@
+{ signal: [
+  { name: 'clk',    wave: 'p.............'},
+  ['src', 
+    { name: 'rdy',     wave: '01...0..1.0...' }
+  ],
+  ['dst',
+    { name: 'ack',     wave: '0...10...10...' },
+    { name: 'ackData', wave: 'x...5x...5x...', data: ['D1', 'D2'] }
+  ]
+]}
