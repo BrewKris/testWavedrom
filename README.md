@@ -19,3 +19,7 @@ Request Ack Interface
 Ready Valid Burst Interface
 
 ![ready valid burst](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/rdyVldBurst.json5?)
+
+Status Interface 
+
+![status](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/status.json5?)
