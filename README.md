@@ -14,4 +14,4 @@ Ready Ack Interface
 
 Request Ack Interface
 
-![req ack](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/rdyAck.json5?)
+![req ack](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/reqAck.json5?)
