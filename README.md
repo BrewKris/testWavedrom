@@ -23,3 +23,7 @@ Ready Valid Burst Interface
 Status Interface 
 
 ![status](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/status.json5?)
+
+Memory Interface
+
+![memory](https://svg.wavedrom.com/github/BrewKris/testWavedrom/main/memory.json5?)
