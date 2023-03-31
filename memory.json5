@@ -1,0 +1,12 @@
+{ signal: [
+  { name: 'clk',         wave: 'p................'},
+  ['src', 
+    { name: 'enable',    wave: '01..0.1.0..1.0...' },
+    { name: 'wrEn',      wave: '01..0......10....' },
+    { name: 'addr',      wave: 'x555x.55x..5.x...', data: ['A1', 'A2', 'A3', 'A2', 'A1', 'A4'] },
+    { name: 'writeData', wave: 'x555x...x..5x....', data: ['D1', 'D2','D3', 'D4'] }
+  ],
+  ['dst',
+    { name: 'readData',  wave: 'x......55x...5x..', data: ['D2', 'D1', 'D4'] },
+  ]
+]}
