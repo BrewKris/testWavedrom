@@ -1,0 +1,9 @@
+{ signal: [
+  { name: 'clk',    wave: 'p.............'},
+  ['src', 
+    { name: 'start',     wave: '01...0..1.0...' }
+  ],
+  ['dst',
+    { name: 'sone',     wave: '0...10...10...' }
+  ]
+]}
